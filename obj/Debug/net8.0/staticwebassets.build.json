@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rnJooKPIBxHoN/HM++c7TE3jcpfZVV2pldvV4vvRJ3g=",
+  "Source": "InstallmentAPI",
+  "BasePath": "_content/InstallmentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
